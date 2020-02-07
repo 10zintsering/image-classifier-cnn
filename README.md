@@ -14,9 +14,9 @@ The whole system has three parts:
 
 NOTE: For quick check on workings of the model, clone this repo and run cnn.py with provided Contants values in any python ide. I used spyder via anaconda navigator.
 
-Once the you saw the steps, you can run the model at recommended Contants values mentioned in the code. It will take few hours to complete the run, depending upon the speed of your machine, but once done the model is expected to work with around 90% accuracy. 
+Once you saw the steps, you can run the model at recommended Contants values mentioned in the code. It will take few hours to complete the run, depending upon the speed of your machine, but once done the model is expected to work with around 90% accuracy. 
 
-If you want to check the predictions on your pictures, delete the predict_set folder and add the photos there. Don't forget the change PREDICT_IMAGE_NUM constant to the number of photos you have just added.
+If you want to check the predictions on your pictures, delete everything in the predict_set folder and add your photos there. Don't forget the change the PREDICT_IMAGE_NUM constant to the number of photos you have just added.
 
 Enjoy!  
 

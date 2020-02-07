@@ -35,7 +35,7 @@ TEST_IMAGE_NUM = 200 #No. of images in test set
 PREDICT_IMAGE_NUM = 10 #No. images to predict, containing in predict_set folder
 FEATURE_DET = 32
 
-# At PIXEL 128, EPOCH 20, FEATURE_DET = 64, I GOT 90% ACCURACY, but It takes almost 2 hours to run !
+# Recommended constants, At PIXEL 128, EPOCH 20, FEATURE_DET = 64, I GOT 90% ACCURACY, but It takes almost 2 hours to run !
 
 
 # Initialising the CNN
